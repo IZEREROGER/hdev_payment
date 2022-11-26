@@ -1,7 +1,7 @@
 <?php 
 /*
 *	HDEV Payment Gateway 
-*	@email :  prodevroger@gmail.com
+*	@email :  info@hev.rw
 *	@link : https://github.com/IZEREROGER
 *
 */
